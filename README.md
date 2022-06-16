@@ -12,7 +12,7 @@
 <a href="https://drive.google.com/drive/folders/1kTi0uwh_8ks48a5p9bjvG0xMaf-EsW6T?usp=sharing"><img src="siteweb.svg"></a> 
 
 <h4>Mon behance<h4>
-<a href="https://www.behance.net/fekyfaofficial"><img alt="Behance" width="26px" src="behance.svg" style="padding-right:10px;" /><span>Behance</span>
+<a href="https://www.behance.net/fekyfaofficial"><img alt="Behance" width="26px" src="behance.svg" style="padding-right:10px;" /><span>&nbspBehance</span>
 
 
 <h4>Linkedin<h4>
@@ -20,9 +20,9 @@
 
 <h3>Mes Languages et outils:</h3>
 
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><span>Visual Studio Code</span>
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /><span>HTML 5</span>
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /><span>CSS 3</span>
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /><span>&nbspVisual Studio Code</span>
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /><span>&nbspHTML 5</span>
+<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /><span>&nbspCSS 3</span>
 
 
 <h3>Mes Stats Github</h3>
