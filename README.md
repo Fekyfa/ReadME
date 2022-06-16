@@ -8,8 +8,7 @@
 <h1> Me Contacter:</h1>
 
 <h4>Mes informations & réseaux<h4>
-<a href="https://drive.google.com/drive/folders/1kTi0uwh_8ks48a5p9bjvG0xMaf-EsW6T?usp=sharing"><img alt="Site Web" width="26px" src="siteweb.svg" style="padding-right:10px;"/><span>&nbsp;Portfolio</span>
-
+<a href="https://drive.google.com/drive/folders/1kTi0uwh_8ks48a5p9bjvG0xMaf-EsW6T?usp=sharing"><img alt="Site Web" width="26px" src="portfolio.svg" style="padding-right:10px;"/><span>&nbsp;Portfolio</span>
 
 <a href="https://www.behance.net/fekyfaofficial"><img alt="Behance" width="26px" src="behance.svg" style="padding-right:10px;"/><span>&nbsp;Behance</span>
 
