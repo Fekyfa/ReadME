@@ -8,15 +8,12 @@
 
 <h3> Me Contacter:</h3>
 
-<h4>Portefolio<h4>
-<a href="https://drive.google.com/drive/folders/1kTi0uwh_8ks48a5p9bjvG0xMaf-EsW6T?usp=sharing"><img src="siteweb.svg"></a> 
+<h4>Mes informations & réseaux<h4>
+<a href="https://drive.google.com/drive/folders/1kTi0uwh_8ks48a5p9bjvG0xMaf-EsW6T?usp=sharing"><img src="siteweb.svg"></a><span>&nbspPortfolio</span>
 
-<h4>Mon behance<h4>
 <a href="https://www.behance.net/fekyfaofficial"><img alt="Behance" width="26px" src="behance.svg" style="padding-right:10px;" /><span>&nbspBehance</span>
 
-
-<h4>Linkedin<h4>
-<a href="https://www.linkedin.com/in/philemon-demarelatrous-4490b7213/"><img src="linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/philemon-demarelatrous-4490b7213/"><img src="linkedin.svg" /></a><span>&nbspLinkedin</span>
 
 <h3>Mes Languages et outils:</h3>
 
