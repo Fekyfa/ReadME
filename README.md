@@ -3,7 +3,7 @@
 
 <p>Fekyfa</p>
 
-<h2>Je m'appelle Philemon Demarelatrous.</h2>
+<p>Je m'appelle Philemon Demarelatrous.</p>
 
 <h3> Me Contacter:</h3>
 
